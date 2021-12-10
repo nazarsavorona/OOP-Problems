@@ -1,4 +1,4 @@
-package org.third.task;
+package problems.task9;
 
 public class ThreadService {
 

@@ -1,4 +1,4 @@
-package com.tasks.example.client;
+package problems.task7.client;
 
 import com.tasks.example.entity.Student;
 import java.io.*;

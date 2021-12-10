@@ -1,4 +1,4 @@
-package com.tasks.example.entity;
+package problems.task7.entity;
 
 import java.io.Serializable;
 import java.util.Objects;

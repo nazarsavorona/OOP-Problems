@@ -1,4 +1,4 @@
-package tridiagonal.matrix;
+package problems.task8;
 
 public class Coefficients {
     private Double[] alpha;

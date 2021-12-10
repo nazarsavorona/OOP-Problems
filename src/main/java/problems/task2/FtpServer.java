@@ -1,4 +1,4 @@
-package task2;
+package problems.task2;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;

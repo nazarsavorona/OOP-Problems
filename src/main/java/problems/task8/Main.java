@@ -1,4 +1,4 @@
-package tridiagonal.matrix;
+package problems.task8;
 
 import java.io.File;
 import java.util.List;
