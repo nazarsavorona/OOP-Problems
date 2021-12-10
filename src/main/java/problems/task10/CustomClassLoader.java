@@ -1,4 +1,4 @@
-package org.example;
+package problems.task10;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;

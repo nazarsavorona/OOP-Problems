@@ -1,8 +1,8 @@
-package org.example.classes;
+package problems.task10.classes;
 
 import java.time.Year;
 
-public class Teacher implements Human{
+public class Teacher implements Human {
     private int age;
     private String name;
 
@@ -14,7 +14,7 @@ public class Teacher implements Human{
         System.out.println("Mmm, delicious");
     }
 
-    public int countAge(){
+    public int countAge() {
         return Year.now().getValue() - age;
     }
 }

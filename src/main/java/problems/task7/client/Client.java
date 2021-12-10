@@ -1,6 +1,6 @@
 package problems.task7.client;
 
-import com.tasks.example.entity.Student;
+import problems.task7.entity.Student;
 import java.io.*;
 import java.net.InetSocketAddress;
 import java.nio.ByteBuffer;

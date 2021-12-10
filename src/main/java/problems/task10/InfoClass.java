@@ -1,4 +1,4 @@
-package org.example;
+package problems.task10;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;

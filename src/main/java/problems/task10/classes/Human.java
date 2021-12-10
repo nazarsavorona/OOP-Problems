@@ -1,4 +1,4 @@
-package org.example.classes;
+package problems.task10.classes;
 
 public interface Human {
     void say();
