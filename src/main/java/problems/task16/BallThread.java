@@ -5,7 +5,7 @@ import java.awt.*;
 import java.util.Random;
 
 class BallThread extends Thread {
-    private static final Random random = new Random();
+    private final Random random = new Random();
 
     private final int ballSize = 10;
     private final double alpha;

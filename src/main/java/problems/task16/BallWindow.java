@@ -6,7 +6,6 @@ import java.awt.*;
 public class BallWindow extends JFrame {
     JPanel panel = new JPanel();
     JButton btn = new JButton("Add point");
-    int i;
 
     public BallWindow() {
         setBounds(100, 200, 600, 600);
@@ -19,7 +18,6 @@ public class BallWindow extends JFrame {
         contentPane.add(panel);
         btn.addActionListener(e -> {
             new BallThread(panel).start();
-            i++;
             repaint();
         });
     }
